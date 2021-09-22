@@ -8,7 +8,7 @@ The architecture is based on GPT2 leveraging the DialoGPT codebase, tutorials an
 * training: the streamlined training scripts
 * data: all the relevant scripts and raw data related to generating the data
 
-Currently, there is only the notebook based on the [Make your own Rick Sanchez (bot) with Transformers and DialoGPT fine-tuning](https://towardsdatascience.com/make-your-own-rick-sanchez-bot-with-transformers-and-dialogpt-fine-tuning-f85e6d1f4e30?gi=cfc48d3ef8cf), it has been revised and updated for the changes in the huggingface. 
+Currently, there is only the [tutorial notebook](https://colab.research.google.com/github/gullabi/debatebot/blob/main/tutorials/GPTRick.ipynb) based on the [Make your own Rick Sanchez (bot) with Transformers and DialoGPT fine-tuning](https://towardsdatascience.com/make-your-own-rick-sanchez-bot-with-transformers-and-dialogpt-fine-tuning-f85e6d1f4e30?gi=cfc48d3ef8cf), it has been revised and updated for the changes in the huggingface. You can run this notebook directly in Google Colaboratory by using [this link](https://colab.research.google.com/github/gullabi/debatebot/blob/main/tutorials/GPTRick.ipynb).
 
 ## Phase 0, current to do list:
 
